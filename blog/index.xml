@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ForTheChemicals</title>
+    <link>http://localhost:1313/ftc2/blog/</link>
+    <description>Recent content on ForTheChemicals</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>2024 © forthechemicals.com</copyright>
+    <lastBuildDate>Sun, 14 Jul 2024 17:53:30 +0530</lastBuildDate><atom:link href="http://localhost:1313/ftc2/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title> No Gym, No Problem: How to Stay Motivated with Home Workouts</title>
+      <link>http://localhost:1313/ftc2/blog/blog3/</link>
+      <pubDate>Sun, 14 Jul 2024 17:53:30 +0530</pubDate>
+      
+      <guid>http://localhost:1313/ftc2/blog/blog3/</guid>
+      <description>With the world being such a busy place, and time being something we have less of every day, home workouts are becoming more and more popular</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/ftc2/blog/blog3/featured.gif" />
+    </item>
+    
+    <item>
+      <title>The Strength-Building Power of Home Workouts</title>
+      <link>http://localhost:1313/ftc2/blog/blog1/</link>
+      <pubDate>Sun, 14 Jul 2024 17:53:30 +0530</pubDate>
+      
+      <guid>http://localhost:1313/ftc2/blog/blog1/</guid>
+      <description>Working out at home has become a lot more popular since the pandemic</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/ftc2/blog/blog1/featured.jfif" />
+    </item>
+    
+    <item>
+      <title>Blog2</title>
+      <link>http://localhost:1313/ftc2/blog/blog2/</link>
+      <pubDate>Fri, 12 Jul 2024 23:33:12 +0530</pubDate>
+      
+      <guid>http://localhost:1313/ftc2/blog/blog2/</guid>
+      <description>This is blog 2</description>
+      
+    </item>
+    
+  </channel>
+</rss>
